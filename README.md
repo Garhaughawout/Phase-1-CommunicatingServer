@@ -20,4 +20,4 @@ By the end of today's lecture, you will be able to identify a JSON file and code
 
 ## Looking Ahead
 
-Tomorrow's lecture will continue our work with `fetch`, this time introducing the POST request to accompany the GET request.
+Tomorrow's lecture will continue our work with `fetch`, this time introducing the other fundamentals POST, PATCH, and DELETE.
